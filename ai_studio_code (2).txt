@@ -1,0 +1,28 @@
+├── index.html
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+├── public/
+│   └── assets/aistudio/file_000000002ef0820b8edda173d14b057e_cc9b04ca.png (Official N Collection Logo)
+└── src/
+    ├── main.tsx
+    ├── App.tsx
+    ├── index.css
+    ├── types/
+    │   └── watch.ts
+    ├── data/
+    │   └── defaultWatches.ts
+    ├── context/
+    │   └── WatchContext.tsx
+    └── components/
+        ├── Navbar.tsx
+        ├── Hero.tsx
+        ├── HomePage.tsx
+        ├── ShopPage.tsx
+        ├── WatchCard.tsx
+        ├── WatchDetailModal.tsx
+        ├── InquiryModal.tsx
+        ├── AboutPage.tsx
+        ├── ContactSection.tsx
+        ├── Footer.tsx
+        └── InventoryManagerModal.tsx
